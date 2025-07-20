@@ -5,7 +5,7 @@ Ten projekt prezentuje kompleksowy dashboard analityczny zbudowany w Power BI, s
 ## Podgląd Dashboardu
 *Ponieważ raport zawiera dane wrażliwe, interaktywna wersja online nie jest publicznie dostępna. Poniżej znajduje się zrzut ekranu finalnego produktu.*
 
-![Podgląd Dashboardu HR] (https://github.com/MarSnop99/PowerBI-HR-Analytics-Dashboard/blob/main/HR-PowerBI-Dashboard-Screenshot.png?raw=true)
+![Podgląd Dashboardu HR](https://github.com/MarSnop99/PowerBI-HR-Analytics-Dashboard/blob/main/HR-PowerBI-Dashboard-Screenshot.png?raw=true)
 
 ## 1. Cel Biznesowy Projektu
 Celem projektu było stworzenie interaktywnego narzędzia dla działu HR, które pozwala na szybką ocenę struktury zatrudnienia, analizę wynagrodzeń oraz identyfikację trendów demograficznych w firmie.
