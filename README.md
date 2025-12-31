@@ -3,7 +3,7 @@
 Ten projekt prezentuje kompleksowy dashboard analityczny zbudowany w Power BI, służący do analizy kluczowych wskaźników zasobów ludzkich.
 
 ## Podgląd Dashboardu
-*Ponieważ raport zawiera dane wrażliwe, interaktywna wersja online nie jest publicznie dostępna. Poniżej znajduje się zrzut ekranu finalnego produktu.*
+*Dane użyte w projekcie zostały zanonimizowane i są danymi syntetycznymi na potrzeby demonstracji*
 
 ![Podgląd Dashboardu HR](https://github.com/MarSnop99/PowerBI-HR-Analytics-Dashboard/blob/main/HR-PowerBI-Dashboard-Screenshot.png?raw=true)
 
