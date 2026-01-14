@@ -1,33 +1,34 @@
-# Dashboard Analizy Danych HR w Power BI
+# Power BI HR Analytics Dashboard
 
-Ten projekt prezentuje kompleksowy dashboard analityczny zbudowany w Power BI, służący do analizy kluczowych wskaźników zasobów ludzkich.
+This project presents a comprehensive analytical dashboard built in Power BI, designed to analyze Key Performance Indicators (KPIs) in Human Resources.
 
-## Podgląd Dashboardu
-*Dane użyte w projekcie zostały zanonimizowane i są danymi syntetycznymi na potrzeby demonstracji*
+## Dashboard Preview
+*The data used in this project has been anonymized and consists of synthetic data for demonstration purposes.*
+
 
 ![Podgląd Dashboardu HR](https://github.com/MarSnop99/PowerBI-HR-Analytics-Dashboard/blob/main/HR-PowerBI-Dashboard-Screenshot.png?raw=true)
 
-## 1. Cel Biznesowy Projektu
-Celem projektu było stworzenie interaktywnego narzędzia dla działu HR, które pozwala na szybką ocenę struktury zatrudnienia, analizę wynagrodzeń oraz identyfikację trendów demograficznych w firmie.
+## 1. Project Objective
+The goal of this project was to create an interactive tool for the HR department that enables a quick assessment of employment structure, salary analysis, and the identification of demographic trends within the company.
 
-## 2. Użyte Technologie
+## 2. Technologies Used
 *   **Power BI Desktop**
-*   **Power Query:** do procesów ETL (czyszczenie, transformacja i walidacja danych z surowego pliku).
-*   **DAX (Data Analysis Expressions):** do stworzenia niestandardowych miar biznesowych (m.in. Liczba Pracowników, Średnie Wynagrodzenie).
-*   **Modelowanie Danych:** Stworzenie logicznego modelu w celu zapewnienia spójności i wydajności analiz.
+*   **Power Query:** For ETL processes (cleaning, transformation, and validation of raw data).
+*   **DAX (Data Analysis Expressions):** Used to create custom business measures (e.g., Employee Count, Average Salary).
+*   **Data Modeling:** Creation of a logical model to ensure analysis consistency and performance.
 
-## 3. Kluczowe Wnioski i Rekomendacje
+## 3. Key Insights and Recommendations
 
-### Wnioski z Analizy:
-*   **Brak silnej korelacji między stażem pracy a wynagrodzeniem,** co sugeruje, że kluczowe są inne czynniki, takie jak dział czy stanowisko.
-*   **Wysoka stabilność zatrudnienia** (średni staż >8 lat), co może wskazywać na niską rotację.
-*   **Zidentyfikowano lukę płacową (pay gap)** między płciami na wielu stanowiskach oraz znaczące różnice w średnich zarobkach między działami.
+### Analytical Insights:
+*   **No strong correlation between tenure and salary was found**, suggesting that other factors, such as department or position, are the primary drivers.
+*   **High employment stability** (average tenure >8 years), which may indicate low turnover rates.
+*   **A gender pay gap was identified** across multiple positions, along with significant differences in average earnings between departments.
 
-### Rekomendacje Biznesowe:
-1.  **Benchmarking Wynagrodzeń:** Zaleca się przeprowadzenie analizy porównawczej płac dla działów IT i Produkcji do stawek rynkowych, aby zapewnić konkurencyjność i utrzymać talenty.
-2.  **Audyt Równości Płac:** Rekomenduje się przeprowadzenie dogłębnego audytu w celu zidentyfikowania przyczyn systemowych luki płacowej.
-3.  **Analiza Ryzyka Demograficznego:** W związku z wysokim średnim wiekiem pracowników (ok. 41 lat), rekomenduje się wdrożenie programów planowania sukcesji.
+### Business Recommendations:
+1.  **Salary Benchmarking:** It is recommended to conduct a comparative salary analysis for IT and Production departments against market rates to ensure competitiveness and retain talent.
+2.  **Pay Equity Audit:** A deep-dive audit is recommended to identify the systemic causes of the pay gap.
+3.  **Demographic Risk Analysis:** Due to the high average age of employees (approx. 41 years), implementing succession planning programs is strongly recommended.
 
-## 4. Struktura Projektu
-*   **`PowerBI-HR-Analitycs-Dashboard.pbix` ** Plik źródłowy projektu Power BI zawierający dane, model, zapytania Power Query i wizualizacje.
-*   **`HR-PowerBI-Dashboard-Screenshot.png` ** Zrzut ekranu finalnego dashboardu.
+## 4. Project Structure
+*   **`PowerBI-HR-Analytics-Dashboard.pbix`** – The source Power BI file containing data, the model, Power Query queries, and visualizations.
+*   **`HR-PowerBI-Dashboard-Screenshot.png`** – A screenshot of the final dashboard.
